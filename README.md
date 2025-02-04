@@ -1,1 +1,1 @@
-![](https://github.com/bitcooker/bitcooker/blob/master/assets/header.png)
+![](https://github.com/bitcooker/bitcooker/blob/main/assets/header.png)
